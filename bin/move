@@ -8,3 +8,5 @@ input = gets.strip
 index = input.to_i
 
 display_board(board)
+move(board, index, value="X")
+
