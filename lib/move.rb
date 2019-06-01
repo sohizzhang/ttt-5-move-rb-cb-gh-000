@@ -17,4 +17,3 @@ def move(board, index, value="X")
 end
 
 puts display_board(board)
-
